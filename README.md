@@ -9,7 +9,6 @@ Creating Default Folder
 	==> Inside "config" Create Folder application/data
 
 	application/data add Below code
-  
   spring:
  	 datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
